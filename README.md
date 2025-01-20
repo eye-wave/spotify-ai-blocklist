@@ -1,8 +1,8 @@
-# ai-spotify-garbage
+# Spotify AI blocklist
 Constantly growing list of shameless verified artists account on spotify distributing artificially created music.
 
 ### Spicetify trashbin
-If you so happen to be using [Spicetify](https://spicetify.app), you can use the builtin trashbin extension for blocking ai crap. Just import the <file_url> in the extension settings, or extend your own trashbin with it.
+If you so happen to be using [Spicetify](https://spicetify.app), you can use the builtin trashbin extension for blocking ai crap. Just import the [spicetify-trashbin.json](https://raw.githubusercontent.com/eye-wave/spotify-ai-blocklist/refs/heads/main/generated/spicetify-trashbin.json) in the extension settings, or extend your own trashbin with it.
 
 ### Special thanks
 Special thanks to:
