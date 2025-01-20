@@ -1,7 +1,8 @@
 {
   "name": "ai-spotify-garbage",
-  "module": "index.ts",
+  "private": true,
   "type": "module",
+  "license": "LGPL-3.0-or-later",
   "devDependencies": {
     "@types/bun": "latest"
   },
