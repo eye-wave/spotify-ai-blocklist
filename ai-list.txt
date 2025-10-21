@@ -54,6 +54,7 @@ https://open.spotify.com/artist/16VQSgC0LKERS1SGdDehyS
 https://open.spotify.com/artist/17uuOuxcfBewzDw7PqHNjT
 https://open.spotify.com/artist/196dcuwJrobm0Rb6KYRFfw
 https://open.spotify.com/artist/1AMdltJH8ztEf6kv0vHBac
+https://open.spotify.com/artist/1BKJlNV8XB71gXrJuRgAYa
 https://open.spotify.com/artist/1ESEg0jie79LUPfScddnnz
 https://open.spotify.com/artist/1Ffn4zPHH9K4IB6RfsG3f2
 https://open.spotify.com/artist/1Fstsm2HEwZ2bnSvhrEVMp
@@ -217,7 +218,6 @@ https://open.spotify.com/artist/5LK3OUskrkkeGYjwFvOSGI
 https://open.spotify.com/artist/5MX93pcbXRh5zWyVhJHDnY
 https://open.spotify.com/artist/5OiaCJ27JX6gYDhpKCzfKK
 https://open.spotify.com/artist/5Qm1nOodUyDB49RWuU29uc
-https://open.spotify.com/artist/5Qm1nOodUyDB49RWuU29uc
 https://open.spotify.com/artist/5QzVRoeuNzbRfgQ8Z4WFUH
 https://open.spotify.com/artist/5T1kdES4ux2uktUt7BcE7Y
 https://open.spotify.com/artist/5Tj05wqCssztU8BjxgGid9
@@ -311,6 +311,7 @@ https://open.spotify.com/artist/7bHEUOrQN9mmyuj3DlfNOa
 https://open.spotify.com/artist/7cHVJAyqLXxpSySQq2XNfe
 https://open.spotify.com/artist/7cMSdWsetFbNnfXrEjC9Hh
 https://open.spotify.com/artist/7dbbRooacoDdtVgPjcMycp
+https://open.spotify.com/artist/7eq0RjF7dT8hDYjYoh9J6g
 https://open.spotify.com/artist/7f2Au7WmnUtUQ3zIwNX6Zd
 https://open.spotify.com/artist/7fNkkNXVg7u1Y32v3len7R
 https://open.spotify.com/artist/7g7RstiUlGnVrvZFTdyJmy
@@ -319,6 +320,7 @@ https://open.spotify.com/artist/7iPH3dUpELq4mDzYPjzDZT
 https://open.spotify.com/artist/7j6jhTE9IqEgfosaebMdMB
 https://open.spotify.com/artist/7jLw2jKJBOMB5Q2bTggvfH
 https://open.spotify.com/artist/7jiPeo8FF5To7UTMkFZfxb
+https://open.spotify.com/artist/7lAJWawCx3qZDIFA8sAEDu
 https://open.spotify.com/artist/7mpUMWxZ2k9JsFNcrplS5t
 https://open.spotify.com/artist/7pcthteY885wuLPYPonrGp
 https://open.spotify.com/artist/7qNTG9o8glVlAeNkxRvsUy
@@ -330,6 +332,3 @@ https://open.spotify.com/artist/7vhaBOU1bDfiEjSpcKeI2d
 https://open.spotify.com/artist/7wVG9rUxfPPNVZd7wJCgQ3
 https://open.spotify.com/artist/7xEsy1nEyxXWyhNZPHH2vs
 https://open.spotify.com/artist/7xV87aLKIqjESEsoN9xOJE
-https://open.spotify.com/track/2yMp1WL8jA1Qt79AUEklUv
-https://open.spotify.com/track/5Ugvw9CcdnjVqdHVIsZUJd
-https://open.spotify.com/track/6eo9UbUfjybG8VQLYspVO6
