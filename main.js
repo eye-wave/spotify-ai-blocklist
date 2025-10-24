@@ -23,22 +23,25 @@ async function main() {
     songs: {},
   };
 
-  let duplicates = 0;
-
+  let total = 0;
   for await (const line of rl) {
     const id = parseId(line);
-
     if (!id) continue;
 
+    seen.add(id);
+    total += 1;
+  }
+
+  const sorted = Array.from(seen).sort();
+  const duplicates = total - sorted.length;
+
+  const lines = sorted.map((id) => {
     const url = "https://open.spotify.com/artist/" + id;
     const trashId = "spotify:artist:" + id;
 
-    if (seen.has(url)) duplicates++;
-    else {
-      seen.add(url);
-      trash.artists[trashId] = true;
-    }
-  }
+    trash.artists[trashId] = true;
+    return url;
+  });
 
   console.log(
     duplicates === 0
@@ -46,7 +49,7 @@ async function main() {
       : `Found ${duplicates} duplicate entries.`
   );
 
-  await writeFile([...seen], filePath);
+  await writeFile(lines, filePath);
   await writeFile(trash, trashPath);
 }
 
