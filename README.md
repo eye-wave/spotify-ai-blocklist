@@ -12,7 +12,7 @@ If you so happen to be using [Spicetify](https://spicetify.app), you can use the
 
 Check if suspected account has any of the following:
 
-- releases before the year 2022
+- only has releases after the year 2022
 - unnatural robotic song lyrics and profile descriptions
 - ai artwork overuse
 
