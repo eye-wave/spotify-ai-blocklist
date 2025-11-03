@@ -57,6 +57,8 @@ async function main() {
  * @param {string} line
  */
 function parseId(line) {
+  if (!line.includes("artist")) return;
+
   const index = line.lastIndexOf("/");
   if (index === -1 || index + 23 > line.length) return null;
 
