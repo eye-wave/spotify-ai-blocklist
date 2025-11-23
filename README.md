@@ -1,6 +1,9 @@
 # Spotify AI blocklist
 Constantly growing list of shameless verified artists account on spotify distributing artificially created music.
 
+> [!INFO]
+> As of 23/11/2025 the list has grown to over 1000 reported accounts. Which honestly makes me both dissapointed and amazed by how easy it is to stumble upon slop on spotify, and while 1000 might sound impressive i still believe its not even a 0.01% of them all.
+
 ### Spicetify trashbin
 If you so happen to be using [Spicetify](https://spicetify.app), you can use the builtin trashbin extension for blocking ai crap. Just import the [spicetify-trashbin.json](https://raw.githubusercontent.com/eye-wave/spotify-ai-blocklist/refs/heads/main/ai-trashbin.txt) in the extension settings, or extend your own trashbin with it.
 
