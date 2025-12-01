@@ -10,7 +10,7 @@ import readline from "node:readline";
 main();
 async function main() {
   const filePath = new URL("./ai-list.txt", import.meta.url).pathname;
-  const trashPath = new URL("./ai-trashbin.txt", import.meta.url).pathname;
+  const trashPath = new URL("./ai-trashbin.json", import.meta.url).pathname;
 
   const rl = readline.createInterface({ input: fs.createReadStream(filePath) });
 
