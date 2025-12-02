@@ -1,10 +1,12 @@
 # Spotify AI blocklist
+
 Constantly growing list of shameless verified artists account on spotify distributing artificially created music.
 
 > [!NOTE]
 > As of 23/11/2025 the list has grown to over 1000 reported accounts. Which honestly makes me both dissapointed and amazed by how easy it is to stumble upon slop on spotify, and while 1000 might sound impressive i still believe its not even a 0.01% of them all.
 
 ### Spicetify trashbin
+
 If you so happen to be using [Spicetify](https://spicetify.app), you can use the builtin trashbin extension for blocking ai crap. Just import the [spicetify-trashbin.json](https://raw.githubusercontent.com/eye-wave/spotify-ai-blocklist/refs/heads/main/ai-trashbin.json) in the extension settings, or extend your own trashbin with it.
 
 ### How to distinguish AI accounts
@@ -24,7 +26,9 @@ For individual songs i personally judge them by ear. Because of how these models
 If you can't recognize this type of sound, or are just unsure, make sure to check the account for the clues listed eariler. Newer ai models are way better at hiding this characteristic artifact making the _judgment by ear_ more and more difficult as times goes on.
 
 ### Special thanks
+
 Special thanks to:
+
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) for being the main inspiration for this project.
 - [Benn Jordan](https://www.youtube.com/watch?v=QVXfcIb3OKo) another big inspiration and provider of 2 spotify playlists with AI generated music.
 - [CennoxX/spotify-ai-blocker](https://github.com/CennoxX/spotify-ai-blocker) for over 100+ new accounts from their [list](https://raw.githubusercontent.com/CennoxX/spotify-ai-blocker/refs/heads/main/SpotifyAiArtists.csv)
