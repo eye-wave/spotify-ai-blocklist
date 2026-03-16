@@ -36,6 +36,7 @@ https://open.spotify.com/artist/09f6ELLbsHNx1RzZ2Nz4Kg
 https://open.spotify.com/artist/0ABEyDGsIK50UAUKRbFjCN
 https://open.spotify.com/artist/0AHhU8ZA8HFvW7cKUI7l0L
 https://open.spotify.com/artist/0AQX2KY11m3Of6COLGvEA7
+https://open.spotify.com/artist/0AlzveNOfY490idy9Q7npW
 https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX
 https://open.spotify.com/artist/0BzLyqEXNYRb2FDTMCr2en
 https://open.spotify.com/artist/0C8brMCW1EyuDghZM9KtdU
@@ -141,6 +142,7 @@ https://open.spotify.com/artist/0ejp9kCRJk74N7w41IrKwa
 https://open.spotify.com/artist/0es1ucz1CGN2QdXf9mnTia
 https://open.spotify.com/artist/0eyRKJWJGMVccFnZnb7Jga
 https://open.spotify.com/artist/0eztB2cJ2dF3IZ4wjxWrJC
+https://open.spotify.com/artist/0foU256zsSArj0whJtBlaH
 https://open.spotify.com/artist/0fvHff529PT3AmzE6mDMJ9
 https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN
 https://open.spotify.com/artist/0gF9hjfVFYzrY2g0Fen2IH
@@ -279,6 +281,7 @@ https://open.spotify.com/artist/1MpDeOWwmcnbPgWibWD2NW
 https://open.spotify.com/artist/1N6y7GzUt4woDtRRYhvkaF
 https://open.spotify.com/artist/1NGtZFrDLBVyOKnRo9ic4y
 https://open.spotify.com/artist/1NL98WQplw2IGzaW6Pa7Wn
+https://open.spotify.com/artist/1NXNFHeL01qmYrMpJeRhp4
 https://open.spotify.com/artist/1ORh5hGL8aCx1wDAi8242s
 https://open.spotify.com/artist/1OmctM6z9icawn4NfByV3g
 https://open.spotify.com/artist/1OroKC9D7cdbEu5Layza6S
@@ -301,6 +304,7 @@ https://open.spotify.com/artist/1U8rBGLGcsDcuc5O51Hb27
 https://open.spotify.com/artist/1UroBxlP7n88bHQv6VYr6m
 https://open.spotify.com/artist/1V1buZA6QwDj2QBqzUKtaf
 https://open.spotify.com/artist/1VXbj5fdUmFrXyhVB09ybi
+https://open.spotify.com/artist/1VscYvYGP3dbPMPF9gl8Dl
 https://open.spotify.com/artist/1W92618KeHZWH9Rj0ITO5v
 https://open.spotify.com/artist/1WEl56mm4Otn1GWz10IDNF
 https://open.spotify.com/artist/1WuGn0jCPDAovbnnia18hk
@@ -366,6 +370,7 @@ https://open.spotify.com/artist/1s7brFQBWfA9z2YR7bl9nh
 https://open.spotify.com/artist/1sPCuobb7aGqpzhNnfhzom
 https://open.spotify.com/artist/1suw1LNL8CoZqlIc6ziUwk
 https://open.spotify.com/artist/1syWCbl5SdxYurO98VbXE4
+https://open.spotify.com/artist/1t81dbu7D5wjeWRoNXvXHm
 https://open.spotify.com/artist/1tVy0dLhQEtrfu7N6pzX7L
 https://open.spotify.com/artist/1twAkwgxyyr20w7xpTwG5y
 https://open.spotify.com/artist/1tyU1PjfwOtre4GyjX5SyS
@@ -374,6 +379,7 @@ https://open.spotify.com/artist/1uST9uVxSq4cXEucqJTBby
 https://open.spotify.com/artist/1vIJHoYx3WwVEe5wx5IzoT
 https://open.spotify.com/artist/1vL1PKPuiIig3FFUqHz7b1
 https://open.spotify.com/artist/1vYVA53k8ipZAI5d20Mnxo
+https://open.spotify.com/artist/1veKENBpdNAuSi2SbjHEJU
 https://open.spotify.com/artist/1voQkMNwVjQ4tf2YUpT9lD
 https://open.spotify.com/artist/1vxfnvt5magKpZc5mpTGnz
 https://open.spotify.com/artist/1w0yIeELBZKYnvHHWllgIT
@@ -381,6 +387,7 @@ https://open.spotify.com/artist/1w2K7yu5xyX4ouJA4BH44R
 https://open.spotify.com/artist/1w7oS6DdqdwxI2uKjMW3VH
 https://open.spotify.com/artist/1wDJ9lRkh1vQTnN46SiQ4u
 https://open.spotify.com/artist/1wOmrJx56WO0PEFosRgo0Y
+https://open.spotify.com/artist/1wnrdpW8B0rNCtX5uOSIVL
 https://open.spotify.com/artist/1x0YcF98Fketh6iGtkAfSX
 https://open.spotify.com/artist/1xN6mAG0tBVYIyb1zmWVoO
 https://open.spotify.com/artist/1xZcle6S38C7fShUZIbEI5
@@ -430,6 +437,7 @@ https://open.spotify.com/artist/2BWgwt5yZ5ghrfhBnJaedo
 https://open.spotify.com/artist/2Bld4sMlfbeqUkZRNYfRvQ
 https://open.spotify.com/artist/2CCtdU1GpSjr32FrR4dlrI
 https://open.spotify.com/artist/2CI0qbwdIgxYe19Vcm5x0r
+https://open.spotify.com/artist/2Cy8DnCiHbfSDphq8w2ObU
 https://open.spotify.com/artist/2DGqTV4FmA9d4X1McoWoKa
 https://open.spotify.com/artist/2DebCHeCeMzWMyE0J5kdXY
 https://open.spotify.com/artist/2E2GnOAftVb9iqA78aXSwt
@@ -496,6 +504,7 @@ https://open.spotify.com/artist/2V7uVIzEwFHT5pHLbJSOuh
 https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i
 https://open.spotify.com/artist/2VRQeEezhjeiSz5zI6gQRo
 https://open.spotify.com/artist/2VTyXwIyWCrPGH9jb0n1Gc
+https://open.spotify.com/artist/2VVjOtKsdV2YfeVD32yArp
 https://open.spotify.com/artist/2VbDMNyWHpmMeUB3mchNwh
 https://open.spotify.com/artist/2Voye3yfBWW5Gvj1Qg7Vfb
 https://open.spotify.com/artist/2WH08WrpAxLOazRlWOFeKR
@@ -511,6 +520,7 @@ https://open.spotify.com/artist/2ZE8s4UBjkgbhLtVyVxeku
 https://open.spotify.com/artist/2ZLBwxtpMj5tqOu2f0r98h
 https://open.spotify.com/artist/2ZrNWS6pAmbygpsxkoTuB0
 https://open.spotify.com/artist/2ZzVPdEtQfWMZAZNSklPPl
+https://open.spotify.com/artist/2a2SmUQp6laG6ugEf2V9Kd
 https://open.spotify.com/artist/2aS24QHQcFbLYynpaTl3Ia
 https://open.spotify.com/artist/2aUxKkIgEHEGas60D2J7CF
 https://open.spotify.com/artist/2atC1hm0fDF2Wy64EiV1lD
@@ -606,6 +616,7 @@ https://open.spotify.com/artist/33iuIykcvSbRKKxIA07vJ5
 https://open.spotify.com/artist/33yolVr4PXgpAzCiNS3FLu
 https://open.spotify.com/artist/34s0BQ1JanltaUJjOoc1d3
 https://open.spotify.com/artist/34uYCfmKkC1KFeu8LXLrTM
+https://open.spotify.com/artist/35DxySW3ufvqRI66thncQZ
 https://open.spotify.com/artist/35kClhXW2ONvkh5TW6DZZK
 https://open.spotify.com/artist/36S8Go7W9bT8cBwr3QFvKv
 https://open.spotify.com/artist/37jlXUhVJLqIVc6I8vTi5X
@@ -634,6 +645,7 @@ https://open.spotify.com/artist/3F9TzfzqfNcCnNdLIOUuLh
 https://open.spotify.com/artist/3GzRfn8J4vtWMPKyHmIqlB
 https://open.spotify.com/artist/3H5GSjweiWcXcjLqVLvIhd
 https://open.spotify.com/artist/3HEoMfOdHSQXpZ3qFEYJdI
+https://open.spotify.com/artist/3HMiXOjcVelwNd744MeAAM
 https://open.spotify.com/artist/3HYZEdclf7Plci7cgYeEKc
 https://open.spotify.com/artist/3HxqMycHyAydB2ksQMtPzj
 https://open.spotify.com/artist/3IFUUX4omNlVlwhaVSpLpF
@@ -763,6 +775,7 @@ https://open.spotify.com/artist/3rhDDMPryjo51z54FRGMzv
 https://open.spotify.com/artist/3tMjuxbQXD16eHitltE9m8
 https://open.spotify.com/artist/3toyC2pujri1hPV1Q3QY8t
 https://open.spotify.com/artist/3twLfLteZYBXsDD3sNzF8G
+https://open.spotify.com/artist/3u3c4OmCbU7PDgDvyYWfpM
 https://open.spotify.com/artist/3ubPEAmladxyGrppqdQwTk
 https://open.spotify.com/artist/3ugxXpCIfLCvBZQxRZ9OFV
 https://open.spotify.com/artist/3umTZEueUOrVg9h8kADcbR
@@ -870,6 +883,7 @@ https://open.spotify.com/artist/4PDjcRMcrT2rR2whfHXbaD
 https://open.spotify.com/artist/4PK4ly1mAHzUb7aySkqIfh
 https://open.spotify.com/artist/4PbKVheWA7ToOxOrqqzjol
 https://open.spotify.com/artist/4PdFPhrBqtGjRFDglGw1Ka
+https://open.spotify.com/artist/4PmEYd03peO6Vm6OOJf5UO
 https://open.spotify.com/artist/4Q0exZCcg49biA7VUaLGlU
 https://open.spotify.com/artist/4QLBCc2W2uxqr6ZbBMjMBs
 https://open.spotify.com/artist/4QQMithHxRhyk69LgkMKEg
@@ -924,6 +938,7 @@ https://open.spotify.com/artist/4gP7d2tmbjrsfHfWF2nauV
 https://open.spotify.com/artist/4giUCuob7KQttfJNM36qFb
 https://open.spotify.com/artist/4hCXUBiqHA9fmr9IrpB0uY
 https://open.spotify.com/artist/4hFhQGA84yW8SFPbbyd56V
+https://open.spotify.com/artist/4hd9bxyF9Of0f5dFqr5djB
 https://open.spotify.com/artist/4hm3WsEjU56qjJHY9vL9Jd
 https://open.spotify.com/artist/4hxEQaGymmj3a2kZm1ClMW
 https://open.spotify.com/artist/4iEKbiA0lGsfmlZGUXnzKh
@@ -1004,6 +1019,7 @@ https://open.spotify.com/artist/51AtjPMKiaQEC6WFBt67xM
 https://open.spotify.com/artist/51G6NUCDxczDOdiazZH2vB
 https://open.spotify.com/artist/51GTVbRGJB5csM32VaqWnr
 https://open.spotify.com/artist/51WJVL4QX5nPj9hndguCE5
+https://open.spotify.com/artist/51qwqmxMiV6pJsqtjj6cl3
 https://open.spotify.com/artist/52Z5G1p8iuXaKrBC4NOSG1
 https://open.spotify.com/artist/52bukOqMQXpToCmpaYVEnZ
 https://open.spotify.com/artist/52p6BBiEtelfVZb6iwG1sw
@@ -1056,6 +1072,7 @@ https://open.spotify.com/artist/5Hn9dR71KtCThJqcl6ZO0n
 https://open.spotify.com/artist/5I6gYlqzrhxysKx4Ma7L5A
 https://open.spotify.com/artist/5IPC9IFzXEoP7TgcbIyzZh
 https://open.spotify.com/artist/5IXCNpWO1SNGQOyid2DSd2
+https://open.spotify.com/artist/5IgLNCzeBqpBDECJQkCTIH
 https://open.spotify.com/artist/5IncvHuw0pGYZVUdriK4sc
 https://open.spotify.com/artist/5Ist7J55gBo3Ji59AJfxyA
 https://open.spotify.com/artist/5Iyjee38hWar9WX2a9f6kZ
@@ -1118,6 +1135,7 @@ https://open.spotify.com/artist/5YCVKoc3N28AVNgX8rG1kY
 https://open.spotify.com/artist/5YPzRSqbOO7bfQYQ6FkO4Y
 https://open.spotify.com/artist/5YkY6oKcel4OBCGDnjhxGz
 https://open.spotify.com/artist/5ZCP0tbgVY2Lx7JG0grqNR
+https://open.spotify.com/artist/5ZqNHMk3zg7GxyJOLSN2l5
 https://open.spotify.com/artist/5aD6vvTXKSD7GD5oel1TWt
 https://open.spotify.com/artist/5aE7lOqCPUuKpdVmcpTldu
 https://open.spotify.com/artist/5aiYZ3NyoSVB8FUIYPk9De
@@ -1139,6 +1157,7 @@ https://open.spotify.com/artist/5f4bcIL7lMyDutLcj3ifDN
 https://open.spotify.com/artist/5f6CnhVe3xwfK1Up7drOEh
 https://open.spotify.com/artist/5fILtblfsRxeAEn72ZLBhx
 https://open.spotify.com/artist/5g4ojj0ukxDmEs32nzm8ED
+https://open.spotify.com/artist/5g9DCRQNPmNlISPsK0cRM8
 https://open.spotify.com/artist/5gLNRrCsgQreUz7zgVkmph
 https://open.spotify.com/artist/5hLAWrKxRJxQYmu1Mb6hTQ
 https://open.spotify.com/artist/5hoR5enj7R4MUGlFsP1uAI
@@ -1167,6 +1186,7 @@ https://open.spotify.com/artist/5mrRu7vmcvguQQRxhz2Ral
 https://open.spotify.com/artist/5nCq1CswZ1OCtY6gnl52T1
 https://open.spotify.com/artist/5nXL5Htjp18FfpNHMgiuQS
 https://open.spotify.com/artist/5o2MPh3juoeFPPpYpaNS4N
+https://open.spotify.com/artist/5oILQG9mNhn1uBDAO3Wgk0
 https://open.spotify.com/artist/5oj4ZOIKenJY9Wykiko0Da
 https://open.spotify.com/artist/5p0nvOpoA2cWnTkMIzfQEF
 https://open.spotify.com/artist/5p3DOIVqZlov30LraR8qtl
@@ -1243,6 +1263,7 @@ https://open.spotify.com/artist/68BOvCDhMe69C2j4nEhNex
 https://open.spotify.com/artist/69OpogjpNcReQAOch47FSw
 https://open.spotify.com/artist/69vHIpGbmzeqIPzdsoyX8A
 https://open.spotify.com/artist/6A8qm0PPLu3zPL2w7ZF8gB
+https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3
 https://open.spotify.com/artist/6Ad0VrKXyFIx4EVWDZmUmD
 https://open.spotify.com/artist/6AothNb1j2SaQG8b7VKiFp
 https://open.spotify.com/artist/6BB25HgL0p6PCllAjh5Axy
@@ -1264,6 +1285,7 @@ https://open.spotify.com/artist/6Et1U8KBFCbZN6CkhE0oyg
 https://open.spotify.com/artist/6FExCaHGFattpjgsPHNKoh
 https://open.spotify.com/artist/6GdlUjZAKBlSCDL2e5LalX
 https://open.spotify.com/artist/6Gv5vcgS5HzVjFgbMEUgLg
+https://open.spotify.com/artist/6H7ZKwzsMm0OJDWLBbTJT1
 https://open.spotify.com/artist/6IU9SrkKQPhkpD03PZzUeP
 https://open.spotify.com/artist/6IW7tR5pfKR67cUoDwATsm
 https://open.spotify.com/artist/6IcYx5kvq0L6xCwWzNNSHN
@@ -1295,6 +1317,8 @@ https://open.spotify.com/artist/6Q8DIA0MHLuZNKE6vtRsoN
 https://open.spotify.com/artist/6QprMA46cBp02CwFSzGdQb
 https://open.spotify.com/artist/6RFklxKvT8Ulmv7lWID1t3
 https://open.spotify.com/artist/6RS2IIQznU2zoxfSxF0DWF
+https://open.spotify.com/artist/6Rj4WMNsHoeGEPlTAX6Jny
+https://open.spotify.com/artist/6SJxX9xeURiptBPQ9PKLNG
 https://open.spotify.com/artist/6SKMuvTTK4hNCWnpmQSraU
 https://open.spotify.com/artist/6Sh7cBPFsRls63qlBK8Ldn
 https://open.spotify.com/artist/6SmhXC9gvA3hpFldqpStg1
@@ -1308,6 +1332,7 @@ https://open.spotify.com/artist/6Vzdbayk7Kp3qBaBM1pL7k
 https://open.spotify.com/artist/6W84SWjGi3bK96VK6eCwWp
 https://open.spotify.com/artist/6WK3Qxj1lGo2lr8d7y2fZM
 https://open.spotify.com/artist/6WXmNu9tMCJZIMipvgbxgw
+https://open.spotify.com/artist/6WoNc6jV6PQq1wtZLmGJDY
 https://open.spotify.com/artist/6WxALr8HSqnRNWe6ru8oDW
 https://open.spotify.com/artist/6WxxqxzkLViHkFbPWsWyZj
 https://open.spotify.com/artist/6XRPWRa69Z4H6cBMo7YYiC
@@ -1373,6 +1398,7 @@ https://open.spotify.com/artist/6ol142WWS5UFXOVXQ6hRs3
 https://open.spotify.com/artist/6pMCtzLFiY9qWjRhhvDIMz
 https://open.spotify.com/artist/6pR7pWfv8YdtQXt4UzVfFh
 https://open.spotify.com/artist/6phTtb8iiGtS9s3WQa9Ouw
+https://open.spotify.com/artist/6qrILVKXeC9Q3lQk8Pm7K1
 https://open.spotify.com/artist/6rTITSJuZSPR9bD72KA62U
 https://open.spotify.com/artist/6sF6xkrFyEuy3j0OgHa7JZ
 https://open.spotify.com/artist/6sMhAdHr40DrQBoCB0p7Zp
@@ -1390,6 +1416,7 @@ https://open.spotify.com/artist/6vESiai7KVad4r1YbNMVjR
 https://open.spotify.com/artist/6vmO4MZo5U4K4s9TtgWweO
 https://open.spotify.com/artist/6w0h4tqsfi0ZwYfrHbV3cf
 https://open.spotify.com/artist/6w3Uvh4HV44MQtfHKg9vKu
+https://open.spotify.com/artist/6w47M0mEsXxBeE7aAkgXl2
 https://open.spotify.com/artist/6wRPmCf57uyjG2WT9LleiB
 https://open.spotify.com/artist/6wkcDg1ZWTbCGW5cUPdZ4A
 https://open.spotify.com/artist/6wq8iklwcF2dj0jtMpPvOJ
@@ -1406,6 +1433,7 @@ https://open.spotify.com/artist/6z3iflEurkogmQWqotrjTF
 https://open.spotify.com/artist/6z4hc4eGnDrDmN4ezNPCOk
 https://open.spotify.com/artist/6zm59l8Y3k783JUa9UtzDw
 https://open.spotify.com/artist/704WV8Qul4gQ8al6POLigT
+https://open.spotify.com/artist/70QiCSfCobaBsOidXbMv01
 https://open.spotify.com/artist/70b0lU3W9kVBBXzlNNGaEk
 https://open.spotify.com/artist/70lgnsTM1DGCsICEPdkPbL
 https://open.spotify.com/artist/71Q2VsfCKFQPPhA1TsHXg4
@@ -1416,6 +1444,7 @@ https://open.spotify.com/artist/72yoajm4uct0IsMVfNa9H1
 https://open.spotify.com/artist/73Cm8Yf3dkaNz9HWsvzJXD
 https://open.spotify.com/artist/73Es5rYMcaHu0WPz9oaVlV
 https://open.spotify.com/artist/747QIFinK07cYuLRXpSZMZ
+https://open.spotify.com/artist/74DFVF9HPx8LCwGqaYvTeJ
 https://open.spotify.com/artist/74DXNgDDFmmDQCuNHdNxAO
 https://open.spotify.com/artist/75JhAid4s689UL20Yup1aF
 https://open.spotify.com/artist/75iba5NiiYk6Pdhe959cJE
@@ -1456,6 +1485,7 @@ https://open.spotify.com/artist/7GFKd0p7559tGHwVp91sEt
 https://open.spotify.com/artist/7GIHB0YkJ1SLdGlahQGxxx
 https://open.spotify.com/artist/7GYdSOyUNp70L6kXepVAzJ
 https://open.spotify.com/artist/7H1CWHcjgqAuUaQl6kxPHM
+https://open.spotify.com/artist/7IloYMXiPqGSJQ9lcW9XEm
 https://open.spotify.com/artist/7J1M3xSog7wMHMWe6WiLHG
 https://open.spotify.com/artist/7JJxNQjCZUUndUgvPDnwgd
 https://open.spotify.com/artist/7K1DuH55ff9GGmO8DCUeIp
@@ -1464,6 +1494,7 @@ https://open.spotify.com/artist/7KQN3IBRs2OvsXD6TAG6k7
 https://open.spotify.com/artist/7KbrR4hhc1L33Cu9d3UwuC
 https://open.spotify.com/artist/7LLY3tFlnN9uUPbiOgHBLj
 https://open.spotify.com/artist/7LMJ6wOCyMSkKYZCADApQc
+https://open.spotify.com/artist/7LNilS5sErt7ebGuzonroD
 https://open.spotify.com/artist/7LY1pMdI2PxoQG2xDAkJmx
 https://open.spotify.com/artist/7LfxHLrmQNqEggZvjaQL1A
 https://open.spotify.com/artist/7LjL1hRdEyGiiDFOdxC2Fs
@@ -1504,6 +1535,7 @@ https://open.spotify.com/artist/7hInYLpBfonlRLNdkeEWvS
 https://open.spotify.com/artist/7hc7GsgfI7mQaj63Uj74v8
 https://open.spotify.com/artist/7hcy1Ea3D4brTD9M1je4LW
 https://open.spotify.com/artist/7hffEChY9wWnnsew1MRb8z
+https://open.spotify.com/artist/7hjd3eNKicmWVXiedhpWmk
 https://open.spotify.com/artist/7i6erLhayYMZeWVEEiWHe1
 https://open.spotify.com/artist/7iFx1jdSsLTetOmKaCkdYO
 https://open.spotify.com/artist/7iPH3dUpELq4mDzYPjzDZT
@@ -1522,6 +1554,7 @@ https://open.spotify.com/artist/7lKhzVXxyZtPdHBNdhzF41
 https://open.spotify.com/artist/7liZanlb4L6Zamx8IVjcef
 https://open.spotify.com/artist/7lqYypTTldmhoGJ693LN7b
 https://open.spotify.com/artist/7lzsUJl6NQj49mTsLfW15T
+https://open.spotify.com/artist/7m2qSeaEQwCZVDSAN1NiaX
 https://open.spotify.com/artist/7mdDNgQFisdo2l4wD6tNId
 https://open.spotify.com/artist/7mpUMWxZ2k9JsFNcrplS5t
 https://open.spotify.com/artist/7mxtxe3jfVy763fTIjxw5W
@@ -1533,6 +1566,7 @@ https://open.spotify.com/artist/7pbRL7cN0fzGdWbWLU2RXn
 https://open.spotify.com/artist/7pcthteY885wuLPYPonrGp
 https://open.spotify.com/artist/7piTj1ZywkHBIgDYIPOwbX
 https://open.spotify.com/artist/7plX5TUiLt9znAem7Dd8lg
+https://open.spotify.com/artist/7ptxsZlC5BjJUUlxUHu1Wt
 https://open.spotify.com/artist/7qNTG9o8glVlAeNkxRvsUy
 https://open.spotify.com/artist/7qb4vkkDLR4UoqKuk4U548
 https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk
