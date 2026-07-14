@@ -33,3 +33,4 @@ Special thanks to:
 - [Benn Jordan](https://www.youtube.com/watch?v=QVXfcIb3OKo) another big inspiration and provider of 2 spotify playlists with AI generated music.
 - [CennoxX/spotify-ai-blocker](https://github.com/CennoxX/spotify-ai-blocker) for over 100+ new accounts from their [list](https://raw.githubusercontent.com/CennoxX/spotify-ai-blocker/refs/heads/main/SpotifyAiArtists.csv)
 - [romiem/ai-bands](https://github.com/romiem/ai-bands) for over 50+ new accounts from their [list](https://raw.githubusercontent.com/romiem/ai-bands/refs/heads/main/dist/ai-bands.json)
+- [Soul over AI](https://souloverai.com) for over 1000 new entries _Licensed under CC BY 4.0._
